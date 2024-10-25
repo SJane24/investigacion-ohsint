@@ -23,3 +23,8 @@ Este repositorio debería permanecer privado. Si se ha hecho público por error,
 ---
 
 **TechCorp Solutions - Departamento de Ciberseguridad**
+
+
+### Recursos utilizados para esta investigación:
+
+Parte de la investigación incluye análisis de datos utilizando el laboratorio [OHSINT](https://tryhackme.com/room/ohsint) de [TryHackMe](https://tryhackme.com).
