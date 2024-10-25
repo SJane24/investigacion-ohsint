@@ -1,0 +1,5 @@
+[CONFIDENCIAL]
+
+- Verificar si hay información adicional en los metadatos de la imagen.
+- Revisar las conexiones de la persona asociada con el usuario `investigator_ohsint`.
+- Es importante mantener esta investigación en privado hasta que se confirmen los hallazgos.
